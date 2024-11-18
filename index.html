@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy Football League Manager</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <main class="container">
+        <h1 class="mt-5">Fantasy Football League Manager</h1>
+
+        Create or Update Team Form
+        <section id="create-team-form" class="mt-4">
+            <form id="team-form">
+                <div class="form-group">
+                    <label for="teamName">Team Name:</label>
+                    <input type="text" id="teamName" name="teamName" class="form-control" placeholder="Enter team name">
+                </div>
+                <div class="form-group">
+                    <label for="teamOwner">Team Owner:</label>
+                    <input type="text" id="teamOwner" name="teamOwner" class="form-control" placeholder="Enter team owner">
+                </div>
+                <div class="form-group">
+                    <label for="teamWins">Wins:</label>
+                    <input type="number" id="teamWins" name="teamWins" class="form-control" placeholder="Enter number of wins">
+                </div>
+                <div class="form-group">
+                    <label for="teamLosses">Losses:</label>
+                    <input type="number" id="teamLosses" name="teamLosses" class="form-control" placeholder="Enter number of losses">
+                </div>
+                
+                <!-- Create Team Button -->
+                <button type="button" id="createTeamButton" class="btn btn-primary">Create Team</button>
+                
+                <!-- Hidden Input for Team ID (only used during Update) -->
+                <input type="hidden" id="teamId">
+                
+                <!-- Update Team Button -->
+                <button type="button" id="updateTeamButton" class="btn btn-secondary">Update Team</button>
+            </form>
+        </section>
+
+        <!-- Displaying the List of Teams -->
+        <h2 class="mt-5">Teams</h2>
+        <div id="teams-container" class="row">
+            <!-- Teams will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <!-- Link to JS file -->
+    <script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+.container {
+    background-color: #ddd1d1;
+    /* border: red solid 10px; */
+}
+
+.team-heading {
+    background-color: #000000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.team {
+    border: 1px solid rgb(1, 14, 1);
+    padding: 10px;
+    margin: 10px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: #0f0a0a57;
+    
+}
+
+.mt-5 {
+    /* border: green solid 10px; */
+    text-align: center;
+
+}
+
+

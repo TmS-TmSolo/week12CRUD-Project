@@ -1,0 +1,128 @@
+{
+  "teams": [
+    {
+      "id": "1",
+      "owner": "Davis Johnson",
+      "name": "Ikea Vikings",
+      "wins": 142,
+      "losses": 98,
+      "trophies": 0
+    },
+    {
+      "id": "2",
+      "owner": "Troy Scott",
+      "name": "Keenan Aliens",
+      "wins": 12,
+      "losses": 2,
+      "trophies": 1
+    },
+    {
+      "id": "3",
+      "owner": "Matt Hart",
+      "name": "Brock and Hock",
+      "wins": 128,
+      "losses": 112,
+      "trophies": 5
+    },
+    {
+      "id": "4",
+      "owner": "Mikey V",
+      "name": "Chasing Kelces",
+      "wins": 135,
+      "losses": 105,
+      "trophies": 2
+    },
+    {
+      "id": "5",
+      "owner": "TJ Young",
+      "name": "Metcalves",
+      "wins": 149,
+      "losses": 91,
+      "trophies": 3
+    },
+    {
+      "id": "6",
+      "owner": "Brady KinWagon",
+      "name": "LaPorta Potties",
+      "wins": 131,
+      "losses": 109,
+      "trophies": 1
+    },
+    {
+      "id": "7",
+      "owner": "Rob Thomas",
+      "name": "Fantasy Falcons",
+      "wins": 138,
+      "losses": 102,
+      "trophies": 2
+    },
+    {
+      "id": "8",
+      "owner": "Kevin Anderson",
+      "name": "Blitz Brigade",
+      "wins": 144,
+      "losses": 96,
+      "trophies": 3
+    },
+    {
+      "id": "9",
+      "owner": "Rachel White",
+      "name": "Snap Dragons",
+      "wins": 127,
+      "losses": 113,
+      "trophies": 1
+    },
+    {
+      "id": "10",
+      "owner": "James Rodriguez",
+      "name": "Playoff Patriots",
+      "wins": 152,
+      "losses": 88,
+      "trophies": 4
+    },
+    {
+      "id": "11",
+      "owner": "Kevin Anderson",
+      "name": "Blitz Brigade",
+      "wins": 144,
+      "losses": 96,
+      "trophies": 3
+    },
+    {
+      "name": "Pirates",
+      "owner": "Andrew Fox",
+      "wins": 2,
+      "losses": 7,
+      "trophies": 0,
+      "id": "13"
+    },
+    {
+      "name": "Keenan Aliens",
+      "owner": "Troy Scott",
+      "wins": 100,
+      "losses": 3,
+      "id": "16"
+    },
+    {
+      "name": "",
+      "owner": "",
+      "wins": 0,
+      "losses": 0,
+      "id": "18"
+    },
+    {
+      "name": "",
+      "owner": "",
+      "wins": 0,
+      "losses": 0,
+      "id": "28"
+    },
+    {
+      "id": "0b98",
+      "name": "Raiders",
+      "owner": "Troy Scott",
+      "wins": 9,
+      "losses": 2
+    }
+  ]
+}
